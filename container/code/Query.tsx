@@ -13,6 +13,7 @@ interface Props {
 
 export class Query extends React.Component<Props> {
   static defaultProps = {
+    // Use an example endpoint
     endpoint: "https://nx9zvp49q7.lp.gql.zone/graphql"
   };
 
