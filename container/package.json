@@ -1,25 +1,22 @@
 {
-	"main": "build/index.js",
-	"license": "MIT",
-	"devDependencies": {
-		"@types/react": "^16.0.31",
-		"framer": "^0.8.0"
-	},
-	"peerDependencies": {
-		"framer": "^0.8.0",
-		"react": "^16.3.0",
-		"react-dom": "^16.3.0"
-	},
-	"framer": {
-		"id": "499004be-afc5-4428-a488-8b1f56c075c7",
-		"displayName": "GraphQL Query"
-	},
-	"author": "Nick Smith",
-	"dependencies": {
-		"apollo-boost": "^0.1.16",
-		"graphql": "^14.0.2",
-		"react-apollo": "^2.1.11"
-	},
-	"name": "@framer/nicks.graphql-query",
-	"version": "1.0.0"
+  "main": "build/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.0.31",
+    "framer": "^0.8.0"
+  },
+  "peerDependencies": {
+    "framer": "^0.8.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "framer": {
+    "id": "499004be-afc5-4428-a488-8b1f56c075c7"
+  },
+  "author": "Nick Smith",
+  "dependencies": {
+    "apollo-boost": "^0.1.16",
+    "graphql": "^14.0.2",
+    "react-apollo": "^2.1.11"
+  }
 }
